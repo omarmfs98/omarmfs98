@@ -1,4 +1,4 @@
-### Hi, I'm Omar 👋
+## Hi, I'm Omar 👋
 
 I am a frontend developer, I am 22 years old and currently living in Colombia
 

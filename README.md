@@ -9,9 +9,9 @@ I am a frontend developer, I am 22 years old and currently living in Colombia
 - 😄 Pronouns: MrX
 
 <p align="center">
-  <img height="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omarmfs98&layout=compact&hide=html" alt="omarmfs98 most used languages">
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omarmfs98&layout=compact&hide=html" alt="omarmfs98 most used languages">
 </p>
 
 <p align="center">
-  <img height="250" src="https://github-readme-stats.vercel.app/api?username=omarmfs98&show_icons=true" alt="omarmfs98 most used languages">
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=omarmfs98&show_icons=true" alt="omarmfs98 most used languages">
 </p>

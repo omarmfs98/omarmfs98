@@ -8,5 +8,10 @@ I am a frontend developer, I am 22 years old and currently living in Colombia
 - 📫 Reach me on [My personal page](https://omarflorez.me),  [LinkedIn](https://www.linkedin.com/in/omar-florez-salgado/), [Twitter](https://twitter.com/realOmarFlorez)
 - 😄 Pronouns: MrX
 
-<div class="d-flex flex-justify-between"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omarmfs98&layout=compact&hide=html" alt="omarmfs98 most used languages" width="100%"/><img src="https://github-readme-stats.vercel.app/api?username=omarmfs98&show_icons=true" alt="omarmfs98 stats" width="100%" />
-</div>
+<p align="center">
+  <img height="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omarmfs98&layout=compact&hide=html" alt="omarmfs98 most used languages">
+</p>
+
+<p align="center">
+  <img height="250" src="https://github-readme-stats.vercel.app/api?username=omarmfs98&show_icons=true" alt="omarmfs98 most used languages">
+</p>

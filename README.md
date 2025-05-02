@@ -15,3 +15,6 @@ I am a frontend developer, I am 22 years old and currently living in Colombia
 <p align="center">
   <img height="150" src="https://github-readme-stats.vercel.app/api?username=omarmfs98&show_icons=true" alt="omarmfs98 most used languages">
 </p>
+
+
+![](https://komarev.com/ghpvc/?username=omarmfs98)
